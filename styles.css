@@ -1,0 +1,171 @@
+*{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+body {
+    background-image: url('https://www.desktopbackground.org/p/2010/12/07/122393_hd-desktop-technology-wallpaper-backgrounds-for-download_1920x1200_h.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }
+.header{
+    display: flex;
+    background-color: white;
+    padding: 0px;
+    height: auto;
+}
+
+.header-logo img{
+    height: 50px;
+}
+
+.header-title{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px;
+}
+
+.header-title p{
+    display: inline;
+    margin-left: 35px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+.header-title p:hover{
+    color: rgb(192, 192, 11);
+}
+.header-title .p1{
+    color: rgb(2, 26, 98);
+}
+
+.header-title .p2{
+    color: rgb(61, 141, 12);
+}
+.header-title .p3{
+    color: rgb(186, 75, 31);
+}
+.header-title .p5{
+    color: rgb(100, 4, 102);
+}
+.header-title .p6{
+    color: rgb(155, 185, 24);
+}
+
+.nav{
+    display: flex;
+    background-color: rgb(19, 11, 113);
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 230px;
+    
+}
+.nav-item{
+    display: inline;
+    margin-left: 0px;
+    height: 20px;
+}
+#item-satu{
+    margin-left: 470px;
+}
+.nav-item a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.nav-item a:hover{
+    color: aqua;
+}
+.nav-item form{
+    display: flex;
+}
+
+.main {
+    display: flex;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.main h1{
+    color: rgb(19, 11, 113);
+}
+.main h2{
+    color: rgb(179, 89, 20);
+    font-size: 22px;
+}
+.menu{
+    margin-top: 0px;
+    width: 15%;
+    background-color: rgb(19, 11, 113);
+    margin: 0px;
+}
+
+.main .menu a{
+    margin-top: 10px;
+    margin-bottom: 25px;
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+.main .menu a:hover{
+    color: aqua;
+}
+
+.menu h2{
+    margin-top: 5px;
+    color: white;
+}
+.content {
+    display: block;
+    text-align: justify;
+    width: 55%;
+    margin-bottom: 0px;
+}
+
+.content-image img{
+    float: left;
+    height: 300px;
+
+}
+.content h1{
+    margin-top: 0px;
+}
+.aside{
+    text-align: justify;
+    border-left: tomato;
+    width: 25%;
+    display: block;
+    margin-left: 15px;
+}
+
+.aside h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.aside h3 a{
+    padding: 0px;
+    text-decoration: none;
+    }
+.aside h3{
+    margin-bottom: 5px;
+}
+.aside-content p{
+    margin: 1px;
+}
+footer{
+    margin-top: 0px;
+    text-align: center;
+    background-color: rgb(19, 11, 113);
+    height: 50px;
+}
+.haki p{
+    font-size: 15px;
+    color: white;
+}
+
+
